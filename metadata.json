@@ -1,0 +1,6 @@
+{
+  "name": "Yuniverse Boutique",
+  "description": "Butik fashion online eksklusif Yuniverse Boutique dengan katalog responsif, pembayaran QRIS & Tunai, pemesanan terintegrasi WhatsApp, dan dashboard manajemen inventaris admin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
